@@ -1,0 +1,337 @@
+ant -f C:\\Users\\elina\\Documents\\NetBeansProjects\\PO3-2021 -Dnb.internal.action.name=debug.single -Djavac.includes=Carpinteros/Main.java -Ddebug.class=Carpinteros.Main debug-single
+init:
+Deleting: C:\Users\elina\Documents\NetBeansProjects\PO3-2021\build\built-jar.properties
+deps-jar:
+Updating property file: C:\Users\elina\Documents\NetBeansProjects\PO3-2021\build\built-jar.properties
+Compiling 1 source file to C:\Users\elina\Documents\NetBeansProjects\PO3-2021\build\classes
+compile-single:
+carpinterosP3 1: Deposite parte3, el número de partes actual =1
+carpinterosP2 1: Deposite parte2, el número de partes actual =1
+carpinterosP3 1 Producer parte3 wait! 
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinterosP1 1: Deposite parte1, el número de partes actual =1
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinteroEnsamblador 1: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 1: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 1: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 1
+carpinterosP2 2: Deposite parte2, el número de partes actual =1
+carpinterosP3 1: Deposite parte3, el número de partes actual =1
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinterosP3 1 Producer parte3 wait! 
+carpinteroEnsamblador 2 Consumer parte1 wait！
+carpinterosP1 1: Deposite parte1, el número de partes actual =1
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinteroEnsamblador 2: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 2: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 2: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 2
+carpinterosP1 1: Deposite parte1, el número de partes actual =1
+carpinterosP2 2: Deposite parte2, el número de partes actual =1
+carpinterosP3 2: Deposite parte3, el número de partes actual =1
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinterosP3 1 Producer parte3 wait! 
+carpinterosP1 1 Producer parte1 wait! 
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP2 2 Producer parte2 wait! 
+carpinteroEnsamblador 3: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 3: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 3: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 3
+carpinterosP2 3: Deposite parte2, el número de partes actual =1
+carpinterosP3 3: Deposite parte3, el número de partes actual =1
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP1 2: Deposite parte1, el número de partes actual =1
+carpinterosP3 1 Producer parte3 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP1 1 Producer parte1 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP1 2 Producer parte1 wait! 
+carpinteroEnsamblador 1: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 1: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 1: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 4
+carpinterosP3 1: Deposite parte3, el número de partes actual =1
+carpinterosP2 1: Deposite parte2, el número de partes actual =1
+carpinterosP1 3: Deposite parte1, el número de partes actual =1
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP1 1 Producer parte1 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinterosP3 1 Producer parte3 wait! 
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP2 1 Producer parte2 wait! 
+carpinteroEnsamblador 2: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 2: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 2: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 5
+carpinterosP3 2: Deposite parte3, el número de partes actual =1
+carpinterosP1 1: Deposite parte1, el número de partes actual =1
+carpinterosP3 3 Producer parte3 wait! 
+carpinterosP2 2: Deposite parte2, el número de partes actual =1
+carpinterosP3 1 Producer parte3 wait! 
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP1 1 Producer parte1 wait! 
+carpinteroEnsamblador 3: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 3: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 3: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 6
+carpinterosP2 3: Deposite parte2, el número de partes actual =1
+carpinterosP1 2: Deposite parte1, el número de partes actual =1
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP3 3: Deposite parte3, el número de partes actual =1
+carpinterosP1 1 Producer parte1 wait! 
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP3 1 Producer parte3 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinteroEnsamblador 1: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 1: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 1: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 7
+carpinterosP2 1: Deposite parte2, el número de partes actual =1
+carpinterosP3 1: Deposite parte3, el número de partes actual =1
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP1 3: Deposite parte1, el número de partes actual =1
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP1 1 Producer parte1 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP3 1 Producer parte3 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinteroEnsamblador 3: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 3: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 3: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 8
+carpinterosP2 2: Deposite parte2, el número de partes actual =1
+carpinterosP1 1: Deposite parte1, el número de partes actual =1
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP1 1 Producer parte1 wait! 
+carpinterosP3 2: Deposite parte3, el número de partes actual =1
+carpinterosP3 3 Producer parte3 wait! 
+carpinterosP3 1 Producer parte3 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinteroEnsamblador 2: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 2: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 2: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 9
+carpinterosP1 2: Deposite parte1, el número de partes actual =1
+carpinterosP2 3: Deposite parte2, el número de partes actual =1
+carpinterosP1 3 Producer parte1 wait! 
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP1 1 Producer parte1 wait! 
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP3 3: Deposite parte3, el número de partes actual =1
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP3 1 Producer parte3 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinteroEnsamblador 3: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 3: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 3: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 10
+carpinterosP1 3: Deposite parte1, el número de partes actual =1
+carpinterosP2 1: Deposite parte2, el número de partes actual =1
+carpinterosP3 1: Deposite parte3, el número de partes actual =1
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP1 1 Producer parte1 wait! 
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinterosP3 1 Producer parte3 wait! 
+carpinteroEnsamblador 1: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 1: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 1: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 11
+carpinterosP1 1: Deposite parte1, el número de partes actual =1
+carpinterosP2 2: Deposite parte2, el número de partes actual =1
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP1 1 Producer parte1 wait! 
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP3 2: Deposite parte3, el número de partes actual =1
+carpinterosP3 3 Producer parte3 wait! 
+carpinterosP3 1 Producer parte3 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinteroEnsamblador 2: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 2: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 2: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 12
+carpinterosP1 2: Deposite parte1, el número de partes actual =1
+carpinterosP2 3: Deposite parte2, el número de partes actual =1
+carpinterosP1 3 Producer parte1 wait! 
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP1 1 Producer parte1 wait! 
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP3 3: Deposite parte3, el número de partes actual =1
+carpinterosP3 1 Producer parte3 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinteroEnsamblador 2: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 2: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 2: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 13
+carpinterosP2 1: Deposite parte2, el número de partes actual =1
+carpinterosP1 3: Deposite parte1, el número de partes actual =1
+carpinterosP3 1: Deposite parte3, el número de partes actual =1
+carpinterosP1 1 Producer parte1 wait! 
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinterosP3 1 Producer parte3 wait! 
+carpinteroEnsamblador 2: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 2: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 2: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 14
+carpinterosP2 2: Deposite parte2, el número de partes actual =1
+carpinterosP1 1: Deposite parte1, el número de partes actual =1
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP3 2: Deposite parte3, el número de partes actual =1
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinterosP3 1 Producer parte3 wait! 
+carpinterosP1 1 Producer parte1 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinteroEnsamblador 3: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 3: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 3: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 15
+carpinterosP2 3: Deposite parte2, el número de partes actual =1
+carpinterosP1 2: Deposite parte1, el número de partes actual =1
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinterosP3 3: Deposite parte3, el número de partes actual =1
+carpinterosP1 1 Producer parte1 wait! 
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP3 1 Producer parte3 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinteroEnsamblador 1: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 1: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 1: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 16
+carpinterosP1 3: Deposite parte1, el número de partes actual =1
+carpinterosP1 1 Producer parte1 wait! 
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinterosP2 1: Deposite parte2, el número de partes actual =1
+carpinterosP3 1: Deposite parte3, el número de partes actual =1
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP3 1 Producer parte3 wait! 
+carpinteroEnsamblador 3: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 3: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 3: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 17
+carpinterosP2 2: Deposite parte2, el número de partes actual =1
+carpinterosP3 2: Deposite parte3, el número de partes actual =1
+carpinterosP1 1: Deposite parte1, el número de partes actual =1
+carpinterosP3 3 Producer parte3 wait! 
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP3 1 Producer parte3 wait! 
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP1 1 Producer parte1 wait! 
+carpinteroEnsamblador 3: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 3: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 3: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 18
+carpinterosP2 3: Deposite parte2, el número de partes actual =1
+carpinterosP1 2: Deposite parte1, el número de partes actual =1
+carpinterosP2 1 Producer parte2 wait! 
+carpinterosP1 3 Producer parte1 wait! 
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP1 1 Producer parte1 wait! 
+carpinterosP3 3: Deposite parte3, el número de partes actual =1
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP3 1 Producer parte3 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinteroEnsamblador 2: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 2: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 2: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 19
+carpinterosP2 1: Deposite parte2, el número de partes actual =1
+carpinterosP3 1: Deposite parte3, el número de partes actual =1
+carpinterosP2 2 Producer parte2 wait! 
+carpinterosP1 3: Deposite parte1, el número de partes actual =1
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP3 2 Producer parte3 wait! 
+carpinterosP1 1 Producer parte1 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinterosP1 2 Producer parte1 wait! 
+carpinteroEnsamblador 3: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 3: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 3: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 20
+carpinterosP2 2: Deposite parte2, el número de partes actual =1
+carpinterosP1 1: Deposite parte1, el número de partes actual =1
+carpinterosP3 2: Deposite parte3, el número de partes actual =1
+carpinterosP1 2 Producer parte1 wait! 
+carpinterosP2 3 Producer parte2 wait! 
+carpinterosP3 3 Producer parte3 wait! 
+carpinteroEnsamblador 1: Saque parte1, ahora el número de partes =0
+carpinteroEnsamblador 1: Saque parte2, ahora el número de partes =0
+carpinteroEnsamblador 1: Saque parte3, ahora el número de partes =0
+muebles ensamblados = 21
+carpinterosP2 3: Deposite parte2, el número de partes actual =1
+carpinterosP1 2: Deposite parte1, el número de partes actual =1
+carpinterosP3 3: Deposite parte3, el número de partes actual =1
+debug-single:
+BUILD SUCCESSFUL (total time: 24 seconds)
